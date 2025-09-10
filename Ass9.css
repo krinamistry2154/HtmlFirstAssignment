@@ -1,0 +1,39 @@
+h1{
+    color:black;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin-bottom:20px;
+    font-size: 15px;
+}
+.outer-purple {
+    border-bottom: 2px solid purple;
+    border-left: 2px solid purple;
+    border-right: 2px solid purple;
+    padding: 10px; 
+    border-radius: 20px;
+}
+#special-heading{
+    color:black;
+    font-family: Arial, sans-serif;
+    border-bottom:4px double green;
+    padding-bottom:10px;
+    border-radius:10px;
+    font-size: 15px;
+}
+.Outer-grey {
+    border: 2px solid grey;
+    padding:1px; 
+    border-radius: 1px;
+}
+.class-container{
+    border:2px dotted purple;
+    padding:20px;
+    margin:20px;
+    border-radius:10px;
+}
+.custom-class{
+    border:1px solid rgb(166, 166, 1);
+    padding:15px;
+    margin:10px 0;
+    font-family:'Arial black', sans-serif;
+}
